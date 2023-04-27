@@ -24,6 +24,7 @@ add_theme_support('menus');
 add_theme_support( "post-thumbnails");
 add_theme_support( "widgets");
 
+/*git testing*/
 
 //Menus
 register_nav_menus(
